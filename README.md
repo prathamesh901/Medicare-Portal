@@ -106,8 +106,7 @@ Use the following credentials to log in as Admin, Doctor, or Patient:
 - PHP 7.3.5
 - MySQL 5.7.26
 
-## Contact Information
-For any questions or issues, please contact the support team at [support@edoc.com](mailto:support@edoc.com).
+
 
 ---
 
