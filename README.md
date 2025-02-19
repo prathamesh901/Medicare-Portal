@@ -1,4 +1,4 @@
-# Doctor's Appointment System
+# Medicare Portal
 
 This project helps a medical establishment such as a clinic or a hospital to manage appointments online. Patients can request appointments with doctors, and doctors can manage their schedules. The system has three roles: Administrator, Doctor, and Patient.
 
@@ -110,4 +110,4 @@ Use the following credentials to log in as Admin, Doctor, or Patient:
 
 ---
 
-Thank you for using our Doctor's Appointment System. We hope it serves your needs well!
+Thank you for using our Medicare Portal. We hope it serves your needs well!
